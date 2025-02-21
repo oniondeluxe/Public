@@ -1,7 +1,7 @@
 # OnionDeluxe Public Area
 
-Contains no source code  
-_&copy; 2014-2025 Daniel Zagar_
+Contains no source code, but presentation and portfolio material for a wider audience.  
+_&copy; 2025 Daniel Zagar_
 
 ## Concepts
 
