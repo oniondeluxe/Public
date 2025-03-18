@@ -10,7 +10,7 @@ _Some tidbits that I have accomplished in my career._
 
 ### Executive support: Due diligence
 
-Due diligence of development organization in the telecom industry.  
+Due [diligence](Portfolio/DD.md) of development organization in the telecom industry.  
 
 ### Execution strategies: How to re-pivot a major rewrite project
 
