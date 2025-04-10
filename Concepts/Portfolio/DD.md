@@ -1,4 +1,4 @@
-#Due diligence
+# Due diligence
 
 I have on several occasions been involved in due diligence (DD, from now on), in the context of company acquisitions. There, I vouched for the technical part of the investigations, i.e. the one that focuses on the engineering department. Sometimes undercover.  
 Perhaps the main thing you want to know in such investigations is the answer to the questions:  
