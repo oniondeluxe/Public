@@ -23,8 +23,9 @@ The survey can be divided into three parts:
 
 What I don't include are topics that don't have immediate touch points with the engineering department, such as sales processes, accounting or HR. The DD teams I have worked in have had specific expertise for this.
 
+
 <picture>
-<img src="dd_flow.jpg" alt="Flow" width="40%" height="40%">
+<img src="dd_flow.jpg" alt="Flow" width="60%" height="60%">
 </picture>
 
 ### Static inventory
