@@ -2,10 +2,14 @@
 
 I have on several occasions been involved in due diligence (DD, from now on), in the context of company acquisitions. There, I vouched for the technical part of the investigations, i.e. the one that focuses on the engineering department. Sometimes undercover.  
 Perhaps the main thing you want to know in such investigations is the answer to the questions:  
-What are these things good for? Can they handle the pressure? If so, how expensive is it to keep them up to scratch? And how well equipped is the organization to manage it securely and effectively?  
+
+_What are these things good for? Can they handle the pressure? If so, how expensive is it to keep them up to scratch? And how well equipped is the organization to manage it securely and effectively?_  
+
 The answers are hidden in the big and the small. A perfect and flawless technology platform won't go far if employees don't know how to work with it in a sensible way. And the flip side is also true: you can have the best processes and culture in the world, but you'll be stuck in quicksand if the backing technology it is a dinosaur.  
+
 You also want to be able to identify red flags. You can illustrate that part in the analogy of Swiss cheese; when you put the slices on top of each other, you don't want too many holes in the cheese to gaze through all the way down to the slice of bread.
 What I will cover in this article is the approach to conducting a DD, and I will conclude with an example of a real-life case; the impending acquisition of a telecom company in the southern hemisphere.  
+
 As a disclaimer, it must incidentally be mentioned that it is of course a challenge to be able to capture all aspects of the condition of a development department in such a relatively limited time and resource space. A significant part of the assessment is based on long experience of working in the industry, at different levels, and with different types of interactions between roles and processes.  
 
 ## Structure
