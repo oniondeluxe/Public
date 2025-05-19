@@ -5,7 +5,7 @@ Perhaps the main thing you want to know in such investigations is the answer to 
 
 _What are these things good for? Can they handle the pressure? If so, how expensive is it to keep them up to scratch? And how well equipped is the organization to manage it securely and effectively?_  
 
-The answers are hidden in the big and the small. A perfect and flawless technology platform won't go far if employees don't know how to work with it in a sensible way. And the flip side is also true: you can have the best processes and culture in the world, but you'll be stuck in quicksand if the backing technology it is a dinosaur.  
+The answers are hidden in the big and the small. A perfect and flawless technology platform won't go far if employees don't know how to work with it in a sensible way. And the flip side is also true: you can have the best processes and culture in the world, but you'll be stuck in quicksand if the technology backing it is a dinosaur.  
 
 You also want to be able to identify red flags. You can illustrate that part in the analogy of Swiss cheese; when you put the slices on top of each other, you don't want too many holes in the cheese to gaze through all the way down to the slice of bread.
 What I will cover in this article is the approach to conducting a DD, and I will conclude with an example of a real-life case; the impending acquisition of a telecom company in the southern hemisphere.  
