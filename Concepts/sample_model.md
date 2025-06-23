@@ -2,7 +2,7 @@
 
 Let's assume for a while that we are in the process of creating a new domain model implementation for a very simple application: we want to work with CRUD of a **flat file of customers**. How would such an implementation be used, from the perspective of an application developer?  
 
-This is an almost hello world like illustration, and can be rendered in thousands of different variants. But let's narrow this down by looking at the shape of the solution if if would adhere to how M10 works.
+This is an almost hello world like illustration, and can be rendered in thousands of different variants. But let's narrow this down by looking at the shape of the solution if it would adhere to how M10 works.
 
 ## Scope
 
@@ -17,7 +17,15 @@ TBA
 
 ## How to use the model
 
-TBA
+Browsing around. How does the DOM look like and what can I see?   
+
+How do we access data? There is no such thing as just reading a value.
+
+How do we modify data? Everything must be done under a concurrency umbrella.
+
+How do we know if something has happened? Refresh is a forbidden pattern, and so is sleep
+
+Events for listening to events
 
 
 ## A canonical description
